@@ -305,7 +305,7 @@ grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     }
     .box2 .btn{
       margin: 5px 5px;
-        font-size: 12px;
+        font-size: 11px;
         padding: 8px 15px;
         height: 35px;
     }
